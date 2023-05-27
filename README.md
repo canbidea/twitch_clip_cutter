@@ -1,4 +1,4 @@
-# twitch_clip_maker
+# twitch_clip_cutter
 
 This is my first project, so it's a bit scuffed. The main purpose of this program is to detect the moments in a long stream when chat messages exceed the average message in the total VOD and create clips of these minutes. There must be a text file named suggested chat.log, and also it requires the VOD as the name suggested Video.mp4. These files can be obtained through TwitchDownloaderGUI.
 
